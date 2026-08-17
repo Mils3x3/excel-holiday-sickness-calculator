@@ -1,3 +1,7 @@
+## Download
+
+[Download the latest release](https://github.com/Mils3x3/excel-holiday-sickness-calculator/releases/latest)
+
 # Excel Holiday & Sickness Calculator
 
 An interactive Microsoft Excel project for tracking holiday entitlement, holiday bookings, sickness absence and Company Sick Pay (CSP), with automated business-rule calculations and dashboard reporting.
